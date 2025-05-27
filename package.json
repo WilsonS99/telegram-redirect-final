@@ -1,5 +1,5 @@
 {
-  "name": "telegram-redirect-api",
+  "name": "telegram-redirect-capi",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
