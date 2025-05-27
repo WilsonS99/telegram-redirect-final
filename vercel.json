@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/redirect", "dest": "/api/redirect.js" }
+  ]
+}
